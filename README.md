@@ -1,6 +1,5 @@
 # Owning A Rabbit
- 
-<!doctype html>
+ <!--<!doctype html>-->
 <html>
 <head>
 <style>
