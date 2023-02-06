@@ -7,7 +7,7 @@ body {
 	background-color: aquamarine;
 	}</style>
 <meta charset="utf-8">
-	<center><title>Owning A Rabbit</title></center>
+	
 </head>
 
 <center><body>
