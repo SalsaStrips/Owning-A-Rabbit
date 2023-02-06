@@ -1,2 +1,57 @@
 # Owning A Rabbit
  
+<!doctype html>
+<html>
+<head>
+<style>
+body {
+	background-color: aquamarine;
+	}</style>
+<meta charset="utf-8">
+	<center><title>Owning A Rabbit</title></center>
+</head>
+
+<center><body>
+	<h1 style="color:darkblue">Owning A Rabbit</h1>
+	<h2><u>Are they for you?</u></h2>
+	<br>
+	<p style="color:darkblue; font-size: 20px"><b>Owning a rabbit as a pet sounds like a piece of cake. Unfortinately, not a lot of people take into consideration the amount of work, time, and money that goes into these creatures.
+		<br>First time owners beleive, and are told, that rabbits are cheap and easy pets. Only to find out within that first week of owning one that they are the most challenging, costly pets. </b></p>
+	<img src="images/20211025_143520.jpg" alt="Ziggy wearing his hot dog costume" width="272" height="500">
+	<br>
+	<b><p style="color:darkslateblue; font-size: 20px">Things To Consider:</p>
+		<br>
+<br>
+		<br>
+		<h1 id="questions">Ask yourself;</h1>
+<button onclick="displayResult()">Change text</button>
+
+<script>
+function displayResult() {
+  document.getElementById("myHeader").innerHTML = "Have a nice day!";
+}
+</script>
+		<!--I can't figure out this Javafunction, or Class/ID -->
+				
+	<p>	Where do you see yourself in 2 years?<br>
+	Will you be able to afford their health care?<br>
+	Will you have the time to care for a rabbit?<br>
+		</p></b>
+	<img src="images/8ixKnR7ip.png" alt="Time to study!" width="200">
+<p>These are the main contributor when it comes to owning a rabbit as a house companion. When a person purchases a rabbit from a breeder or pet store they are given little or false information. One being that they are beginner animals, when that is the complete opposite.</p></body></center>
+	<br>
+	<center><table>
+  <tr>
+	  <!--Make Table lead to internal/external sites. Second site will be List function -->
+    <th>Vet Care</th>
+    <th>Supplies</th>
+    <th>Resources</th>
+		</tr>
+  <tr>
+    <td><a href="https://alamocityhouserabbits.com/rabbit-care/">Rabbit Vets</a></td>
+    <td><a href="oab2.html">Supplies</a></td>
+    <td><a href="https://rabbit.org/">House Rabbit Society</a> </td>
+  </tr>
+  		</table></center>
+		
+</html>
