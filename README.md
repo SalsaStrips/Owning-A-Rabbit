@@ -1,14 +1,4 @@
-# Owning A Rabbit
- <!--<!doctype html>-->
-<html>
-<head>
-<style>
-body {
-	background-color: aquamarine;
-	}</style>
-<meta charset="utf-8">
-	
-</head>
+
 
 <center><body>
 	<h1 style="color:darkblue">Owning A Rabbit</h1>
