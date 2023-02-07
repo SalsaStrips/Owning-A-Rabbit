@@ -1,20 +1,21 @@
-# Owning A Rabbit
- <!--<!doctype html>-->
+<!doctype html>
 <html>
+<meta charset="utf-8">
 <head>
 <style>
-body {
-	background-color: aquamarine;
-	}</style>
-<meta charset="utf-8">
-	
+body {background-color: aqua;}
+h1   {color: blue;}
+p    {color: darkblue;}
+
+</style>
+	<center><title>Owning A Rabbit</title></center>
 </head>
 
 <center><body>
-	<h1 style="color:darkblue">Owning A Rabbit</h1>
+	<h1 classstyle="color:darkblue">Owning A Rabbit</h1>
 	<h2><u>Are they for you?</u></h2>
 	<br>
-	<p style="color:darkblue; font-size: 20px"><b>Owning a rabbit as a pet sounds like a piece of cake. Unfortinately, not a lot of people take into consideration the amount of work, time, and money that goes into these creatures.
+	<p style="font-size: 20px"><b>Owning a rabbit as a pet sounds like a piece of cake. Unfortinately, not a lot of people take into consideration the amount of work, time, and money that goes into these creatures.
 		<br>First time owners beleive, and are told, that rabbits are cheap and easy pets. Only to find out within that first week of owning one that they are the most challenging, costly pets. </b></p>
 	<img src="images/20211025_143520.jpg" alt="Ziggy wearing his hot dog costume" width="272" height="500">
 	<br>
@@ -46,6 +47,11 @@ function displayResult() {
     <th>Supplies</th>
     <th>Resources</th>
 		</tr>
+	<ul class="list">
+		<li>Testing</li>
+		<li>List</li>
+		<li>Functions</li>
+		</ul>
   <tr>
     <td><a href="https://alamocityhouserabbits.com/rabbit-care/">Rabbit Vets</a></td>
     <td><a href="oab2.html">Supplies</a></td>
