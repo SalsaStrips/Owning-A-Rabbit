@@ -1,16 +1,3 @@
-<!doctype html>
-<html>
-<meta charset="utf-8">
-<head>
-<style>
-body {background-color: aqua;}
-h1   {color: blue;}
-p    {color: darkblue;}
-
-</style>
-	<center><title>Owning A Rabbit</title></center>
-</head>
-
 <center><body>
 	<h1 classstyle="color:darkblue">Owning A Rabbit</h1>
 	<h2><u>Are they for you?</u></h2>
